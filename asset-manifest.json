@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/concept-app-reactjs/static/js/main.857c1f31.chunk.js",
+    "main.js.map": "/concept-app-reactjs/static/js/main.857c1f31.chunk.js.map",
+    "runtime-main.js": "/concept-app-reactjs/static/js/runtime-main.acefb041.js",
+    "runtime-main.js.map": "/concept-app-reactjs/static/js/runtime-main.acefb041.js.map",
+    "static/js/2.e1d658b6.chunk.js": "/concept-app-reactjs/static/js/2.e1d658b6.chunk.js",
+    "static/js/2.e1d658b6.chunk.js.map": "/concept-app-reactjs/static/js/2.e1d658b6.chunk.js.map",
+    "index.html": "/concept-app-reactjs/index.html",
+    "precache-manifest.e7458dae22b3e4486e8d06055f7ba4eb.js": "/concept-app-reactjs/precache-manifest.e7458dae22b3e4486e8d06055f7ba4eb.js",
+    "service-worker.js": "/concept-app-reactjs/service-worker.js",
+    "static/js/2.e1d658b6.chunk.js.LICENSE.txt": "/concept-app-reactjs/static/js/2.e1d658b6.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/concept-app-reactjs/static/media/svg-1.4502ca5a.svg",
+    "static/media/svg-2.svg": "/concept-app-reactjs/static/media/svg-2.a3cb0dc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acefb041.js",
+    "static/js/2.e1d658b6.chunk.js",
+    "static/js/main.857c1f31.chunk.js"
+  ]
+}
