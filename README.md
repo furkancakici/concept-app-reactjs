@@ -1,5 +1,5 @@
 
-## Concept bir reactjs çalışmasıdır.
+## Concept bir ReactJs çalışmasıdır.
 
 CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
 
