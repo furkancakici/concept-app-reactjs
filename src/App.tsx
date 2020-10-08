@@ -9,7 +9,7 @@ import { Home, Products, Services, SignUp } from './pages'
 const App: FC = () => {
   return (
     <>
-      <Router>
+      <Router basename="/concept-app-reactjs">
         <GlobalStyle />
         <ScrollTop />
         <Navbar />
