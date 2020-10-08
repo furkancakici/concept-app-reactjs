@@ -3,7 +3,7 @@
 
 CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
 
-### Neler kullandım / öğrendim
+### Neler kullandım / öğrendim 
 
 - ReactJs
 - React Router
