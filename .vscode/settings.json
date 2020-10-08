@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "yarn.lock": false,
+        "tsconfig.json": false,
+        ".gitignore": false,
+        "README.md": false,
+        "package.json": false,
+        ".prettierrc.js": false,
+        ".eslintrc.js": false,
+        ".env": false,
+        ".idea": false,
+        ".vscode": false,
+        "node_modules": false,
+        "public": false
+    },
+    "explorerExclude.backup": null
+}
