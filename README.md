@@ -1,9 +1,11 @@
 
-## Concept bir ReactJs çalışmasıdır.
+### Concept-app 🚀
+
+#### Konsept bir React uygulamasıdır.
 
 CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
 
-### Neler kullandım / öğrendim 
+#### Neler Kullandım / Öğrendim 
 
 - ReactJs
 - React Router
