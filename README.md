@@ -3,7 +3,7 @@
 
 #### Konsept bir React uygulamasıdır.
 
-CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
+Canlı: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
 
 #### Neler Kullandım / Öğrendim 
 
